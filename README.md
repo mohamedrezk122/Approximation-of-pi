@@ -7,7 +7,7 @@ It is a straight forward technique: dots are projected to a designation of a cir
 
 If we calculated the ratio of the two areas we see that:
 
-area of circle / area of square = 4r^2 / pi r^2 
+![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Chuge%20%5Cfrac%7Barea%5C%3Bof%20%5C%3Bcircle%20%7D%20%7Barea%20%5C%3Bof%20%5C%3Bsquare%7D%20%3D%20%5Cfrac%7B4r%5E2%7D%7B%5Cpi%20r%5E2%7D)
 
 that would be the same if we do this 
 
