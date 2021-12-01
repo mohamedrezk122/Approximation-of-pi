@@ -11,7 +11,7 @@ area of circle / area of square = 4r^2 / pi r^2
 
 that would be the same if we do this 
 
-![](https://latex.codecogs.com/png.latex?%5Clim_%7Bx%5Cto%5Cinfty%7D%20%5Cfrac%7B%5C%23%5C%3Bdots%5C%3Bof%5C%3Bwithin%20%5C%3Bthe%5C%3Bcircle%20%7D%7Btotal%20%5C%3B%20no.%20%5C%3B%20of%20%5C%3B%20dots%20%28x%29%7D)
+![Alt text here](https://latex.codecogs.com/svg.latex?%5Chuge%20%5Clim_%7Bx%5Cto%5Cinfty%7D%20%5Cfrac%7B%5C%23%5C%3Bdots%5C%3Bof%5C%3Bwithin%20%5C%3Bthe%5C%3Bcircle%20%7D%7Btotal%20%5C%3B%20no.%20%5C%3B%20of%20%5C%3B%20dots%20%28x%29%7D%20*%20%5C%3B4)
 ![5w426g](https://user-images.githubusercontent.com/59314933/144127624-5dc805a0-520d-4d7b-9746-75dc96a3bd03.gif)
 
 
