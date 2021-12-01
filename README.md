@@ -29,7 +29,9 @@ that would be the same if we do this
   <img width="450" height="450" src="https://user-images.githubusercontent.com/59314933/144127624-5dc805a0-520d-4d7b-9746-75dc96a3bd03.gif">
 </p>
 
+**output:**
 
+`pi = 3.1415929203539825 , error = 8.49136787674061e-06`
 ## Buffon Needles:
 
 
@@ -51,4 +53,6 @@ However, we are going to consider the first case where length of the needle is l
   <img width="450" height="250" src="https://user-images.githubusercontent.com/59314933/144129325-fe1e9d6c-6fea-46f7-876e-744295797fa7.gif">
 </p>
 
+**output:**
 
+`pi =  3.141588785046729 , error =  0.00012313955024344762`
