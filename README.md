@@ -9,7 +9,8 @@ If we calculated the ratio of the two areas we see that:
 
 ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Chuge%20%5Cfrac%7Barea%5C%3Bof%20%5C%3Bcircle%20%7D%20%7Barea%20%5C%3Bof%20%5C%3Bsquare%7D%20%3D%20%5Cfrac%7B4r%5E2%7D%7B%5Cpi%20r%5E2%7D)
 
-that would be the same if we do this 
+that would be the same if we do this ![144129325-fe1e9d6c-6fea-46f7-876e-744295797fa7](https://user-images.githubusercontent.com/59314933/144298223-bca4e247-86e2-4be1-89bb-a5a087723bbb.gif)
+
 
 ![Alt text here](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Chuge%20%5Clim_%7Bx%5Cto%5Cinfty%7D%20%5Cfrac%7B%5C%23%5C%3Bdots%5C%3Bof%5C%3Bwithin%20%5C%3Bthe%5C%3Bcircle%20%7D%7Btotal%20%5C%3B%20no.%20%5C%3B%20of%20%5C%3B%20dots%20%28x%29%7D%20*%20%5C%3B4)
 ![5w426g](https://user-images.githubusercontent.com/59314933/144127624-5dc805a0-520d-4d7b-9746-75dc96a3bd03.gif)
