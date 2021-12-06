@@ -26,7 +26,7 @@ that would be the same if we do this
 **The pygame simulation:**
 
 <p align="center">
-  <img width="450" height="450" src="https://user-images.githubusercontent.com/59314933/144127624-5dc805a0-520d-4d7b-9746-75dc96a3bd03.gif">
+  <img  src="https://user-images.githubusercontent.com/59314933/144127624-5dc805a0-520d-4d7b-9746-75dc96a3bd03.gif">
 </p>
 
 **output:**
@@ -38,7 +38,7 @@ that would be the same if we do this
 That one is a bit tricky. You have some sticks , needles, or whatever you want to call them and you drop them on spaced no. of lines then with some trig manipulation and calculus you will end up with the results in the photo. 
 
 <p align="center">
-  <img width="510" height="300" src="https://user-images.githubusercontent.com/59314933/144304242-84d25287-f2a9-4d9f-ae2d-4de836cc579d.jpg">
+  <img src="https://user-images.githubusercontent.com/59314933/144304242-84d25287-f2a9-4d9f-ae2d-4de836cc579d.jpg">
 </p>
 
 However, we are going to consider the first case where length of the needle is less than the spacing distance.
@@ -50,7 +50,7 @@ However, we are going to consider the first case where length of the needle is l
 
 **The pygame simulation:**
 <p align="center">
-  <img width="450" height="250" src="https://user-images.githubusercontent.com/59314933/144129325-fe1e9d6c-6fea-46f7-876e-744295797fa7.gif">
+  <img src="https://user-images.githubusercontent.com/59314933/144129325-fe1e9d6c-6fea-46f7-876e-744295797fa7.gif">
 </p>
 
 **output:**
