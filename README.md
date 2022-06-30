@@ -10,19 +10,23 @@ It is a straight forward technique: dots are projected to a designation of a cir
 If we calculated the ratio of the two areas we see that:
 
 
+<!---
 <p align="center">
   <img width="220" height="60" src="https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Chuge%20P%20%3D%5Cfrac%7Barea%20%5C%3Bof%20%5C%3Bcircle%7D%7Barea%20%5C%3Bof%20%5C%3Bsquare%7D%20%3D%5Cfrac%7B%5Cpi%20r%5E2%7D%7B4r%5E2%7D">
 </p>
+-->
 
+$$P=\frac{area.of.circle}{area.of.square}=\frac{\pi r^2}{4r^2}$$
 
 
 that would be the same if we do this 
-
+<!---
 <p align="center">
   <img width="390" height="60" src="https://latex.codecogs.com/png.latex?%5Cbg_white%20%5CLARGE%20%5Cpi%20%3D%5Clim_%7Bx%5Cto%5Cinfty%7D%20%5Cfrac%7B%5C%23%20%5C%3Bof%20%5C%3Bdots%5C%3B%20within%20%5C%3Bcircle%7D%7Btotal%20%5C%3Bno.%5C%3B%20of%20%5C%3Bdots%28x%29%7D%20*%5C%3B4">
 </p>
+-->
 
-
+$$\pi = \lim_{n\to\infty} \frac{no.of. dots .in .circle}{total} \times 4$$
 **The pygame simulation:**
 
 <p align="center">
@@ -42,10 +46,12 @@ That one is a bit tricky. You have some sticks , needles, or whatever you want t
 </p>
 
 However, we are going to consider the first case where length of the needle is less than the spacing distance.
+<!---
 <p align="center">
   <img width="300" height="50" src="https://latex.codecogs.com/png.latex?%5Cbg_white%20%5CLARGE%20%5Cpi%20%3D%5Clim_%7Bx%5Cto%5Cinfty%7D%20%5Cfrac%7B2*L%7D%7BD%7D%20*%5Cfrac%7Btotal%20%5C%3B%28x%29%7D%7Bhits%7D">
 </p>
-
+-->
+$$\pi = \lim_{n\to\infty} \frac{2L}{D}*\frac{total}{hits}$$
 
 
 **The pygame simulation:**
